@@ -1,7 +1,7 @@
 
 export default function SportsIcons({ active, setActive }) {
   const sports = [
-    { key: 'cricket', label: 'Cricket', img: 'public/cricket.png' },
+    { key: 'cricket', label: 'Cricket', img: 'https://cdn-icons-png.flaticon.com/512/2160/2160064.png' },
     { key: 'football', label: 'Football', img: 'public/football.png' },
     { key: 'basketball', label: 'Basketball', img: 'public/basketball.png' },
     { key: 'rugby', label: 'Rugby', img: 'public/rugby-ball.png' },
