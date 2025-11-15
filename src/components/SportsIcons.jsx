@@ -1,11 +1,11 @@
 
 export default function SportsIcons({ active, setActive }) {
   const sports = [
-    { key: 'cricket', label: 'Cricket', img: 'src/assets/cricket.png' },
-    { key: 'football', label: 'Football', img: 'src/assets/football.png' },
-    { key: 'basketball', label: 'Basketball', img: 'src/assets/basketball.png' },
-    { key: 'rugby', label: 'Rugby', img: 'src/assets/rugby-ball.png' },
-    { key: 'hockey', label: 'Hockey', img: 'src/assets/ice-hockey.png' }
+    { key: 'cricket', label: 'Cricket', img: 'public/cricket.png' },
+    { key: 'football', label: 'Football', img: 'public/football.png' },
+    { key: 'basketball', label: 'Basketball', img: 'public/basketball.png' },
+    { key: 'rugby', label: 'Rugby', img: 'public/rugby-ball.png' },
+    { key: 'hockey', label: 'Hockey', img: 'public/ice-hockey.png' }
   ]
 
   return (
