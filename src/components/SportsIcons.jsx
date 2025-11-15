@@ -2,10 +2,10 @@
 export default function SportsIcons({ active, setActive }) {
   const sports = [
     { key: 'cricket', label: 'Cricket', img: 'https://cdn-icons-png.flaticon.com/512/2160/2160064.png' },
-    { key: 'football', label: 'Football', img: 'public/football.png' },
-    { key: 'basketball', label: 'Basketball', img: 'public/basketball.png' },
-    { key: 'rugby', label: 'Rugby', img: 'public/rugby-ball.png' },
-    { key: 'hockey', label: 'Hockey', img: 'public/ice-hockey.png' }
+    { key: 'football', label: 'Football', img: 'https://cdn-icons-png.flaticon.com/512/1099/1099672.png' },
+    { key: 'basketball', label: 'Basketball', img: 'https://cdn-icons-png.flaticon.com/512/889/889455.png' },
+    { key: 'rugby', label: 'Rugby', img: 'https://cdn-icons-png.flaticon.com/512/2972/2972028.png' },
+    { key: 'hockey', label: 'Hockey', img: 'https://cdn-icons-png.flaticon.com/512/9140/9140405.png' }
   ]
 
   return (
